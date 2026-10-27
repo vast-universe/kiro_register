@@ -1,0 +1,21 @@
+# Configuration
+config.json
+
+# Sensitive account data
+kiro_accounts.txt
+icloudemail.txt
+accounts.txt
+card.txt
+proxies.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
